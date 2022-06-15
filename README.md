@@ -15,20 +15,6 @@ The appium tests are run on BrowserStack using various run configurations and te
 
 ## Repository setup
 
-- Clone the repository
-    ```sh
-    git clone https://github.com/browserstack/webdriver-framework.git
-    ```
-- Switch to the required branch
-    ```sh
-    git checkout develop_webdriver-framework_python
-    ```
-- Install the webdriver-framework from the cloned repository locally
-    ```sh
-    cd selenium
-    pip install wheel
-    pip install .
-    ```
 - Clone the current repository
     ```sh
     git clone (https://github.com/revathyvarma12/browserstack-examples-robot-appium)
